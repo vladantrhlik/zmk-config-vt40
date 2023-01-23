@@ -3,10 +3,6 @@
 #include <dt-bindings/zmk/keys.h>
 
 / {
-    sensors {
-        compatible = "zmk,keymap-sensors";
-    };
-
     keymap {
         compatible = "zmk,keymap";
 

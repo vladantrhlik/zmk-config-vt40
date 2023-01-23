@@ -1,0 +1,6 @@
+if SHIELD_VT40
+
+config ZMK_KEYBOARD_NAME
+    default "VT40"
+
+endif

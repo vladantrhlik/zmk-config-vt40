@@ -67,3 +67,11 @@
 		ngpios = <16>;
 	};
 };
+
+&adc {
+	status = "okay";
+};
+
+&gpiote {
+	status = "okay";
+};

@@ -66,23 +66,3 @@
 		ngpios = <16>;
 	};
 };
-
-&adc {
-	status = "okay";
-};
-
-&encoder0 {
-	status = "okay";
-};
-
-&gpiote {
-	status = "okay";
-};
-
-&gpio0 {
-	status = "okay";
-};
-
-&gpio1 {
-	status = "okay";
-};

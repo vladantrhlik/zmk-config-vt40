@@ -1,5 +1,8 @@
 if SHIELD_VT40
 
+config CONFIG_ZMK_USB_LOGGING
+	default y
+
 config ZMK_KEYBOARD_NAME
     default "vt40"
 
